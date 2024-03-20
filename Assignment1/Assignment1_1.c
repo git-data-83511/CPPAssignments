@@ -49,7 +49,7 @@ int main()
         switch(choice)
         {
             case 0:
-                printf("THANK YOU FOR USING OUT APP......\n");
+                printf("THANK YOU FOR USING OUR APP......\n");
                 break;
             
             case 1:
