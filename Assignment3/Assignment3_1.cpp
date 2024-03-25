@@ -71,6 +71,9 @@ int main()
 {
     Cylinder c;
     Cylinder c1(5,6);
+    c.setRadius(8);
+    c.setHeight(7);
+    c.printVolume();
     c1.printVolume();
 
 }
