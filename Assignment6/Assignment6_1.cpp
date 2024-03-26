@@ -126,4 +126,7 @@ int main()
     Person *ptr = new Employee(); 
     ptr ->acceptData();
     ptr ->displayData();
+    delete ptr;
+    ptr = NULL;
+    
 }
